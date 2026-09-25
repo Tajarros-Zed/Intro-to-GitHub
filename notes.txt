@@ -5,3 +5,4 @@ git add - stage the changes
 git commit - save the changes with a message
 git push - upload the commits to GitHub
 git pull - get the latest changes from GitHub
+git status - shows the changed files
